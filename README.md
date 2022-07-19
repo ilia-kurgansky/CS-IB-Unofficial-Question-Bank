@@ -1,6 +1,6 @@
 # CS IB Unofficial Question Bank
 This is an unofficial question bank for IB Computer Science. 
-You supply the exam paper PDFs, I supply the ability to filter questions by topic and link them to mark schemes. This is applicable to the "First exams in 2014" [curriculum](http://ib.compscihub.net/wp-content/uploads/2015/04/IBCompSciGuide.pdf), and, at a stretch to the previous papers as well.
+You supply the exam paper PDFs, I supply the ability to filter questions by topic and link them to mark schemes. This is applicable to the "First exams in 2014" [curriculum](http://ib.compscihub.net/wp-content/uploads/2015/04/IBCompSciGuide.pdf), and, at a stretch, to the previous papers as well.
 
 IB has not provided an official exam question bank, unfortunately. For years teachers have been screen clipping individual questions and storing them in increasingly terrifying and convoluted folder structures.
 
